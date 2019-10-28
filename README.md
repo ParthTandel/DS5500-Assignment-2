@@ -1,8 +1,16 @@
 # DS5500-Assignment-2
 
 ## Problem 2
+For this problem, I would like to critique my classmate Priya Singh https://github.com/priyasingh16/Gapminder/blob/master/Gapminder.ipynb
 
-## Problem 3
+Most of her plot is similar to mine and for both her and my plots I think we should have gone with an interactive chart for this kind of dataset. The reason being the number of the categorical variables that are countries are a lot so to Visualize them there needs to be some interaction particularly to toggle between countries such that you can select multiple countries and compare them.
+
+Also, the Plot for individual countries in My classmate is helpful to interpret the relation between income and time for a single country. but when it comes to comparing multiple countries together it becomes difficult as the chart is huge and to find that particular countries itself is difficult and too compare those multiple charts together even more.
+
+The second plot about countries with respect to income and time in a single chart is similar to mine. The chart packs a lot of information in it, in fact too much information for it to be interpretable. The single country chart is more interpretable than this one definitely. But both are not a perfect solution for visualization of this kind.
+
+
+## probelm 3
 
 ## Problem 4
 For seeing the relationship between income and life expectancy I plotted a scatter plot of Life expectancy against GDP to see how they are correlated. Looking at the plot we see that as we increase the income over certain range the life expectancy increases as well and after a certain point, it almost is constant as expected. 
@@ -12,7 +20,7 @@ The blue scatters represents the actual Y which is the life expectancy over inco
 ![alt text](assets/q1_a.png)
 
 
-The mean square error i got for all the regressors are as follows
+The mean square error I got for all the regressors are as follows
     
     Mean square error for linear 1st-degree linear regression: 178.20974789819934
     Mean square error for linear 2nd-degree linear regression: 129.81171346584082
@@ -30,7 +38,7 @@ For each residual wee can see that it is moving away from 0 and thereby increase
 #### Further Analysis
 
 Looking at the plot of life expectancy over income we see some form of log relation between them and both are variables that are directly proportional to each other as we see that if the income increases the life expectancy increases. 
-So to see the logarithmic relation i fit the models with log-transformed Income GDP and observed the result.
+So to see the logarithmic relation I fit the models with log-transformed Income GDP and observed the result.
  
 Looking at the plot we can see that the lines for all the regressors are better fitting the relationship between life expectancy and income GDP. The 3rd-degree regressor over the log(income-GDP) fits the life expectancy best in comparison to all the models.
 
@@ -76,7 +84,7 @@ Also looking at the residual the third-degree polynomial is closer toward 0 than
 
 ## Problem 5
 
-To see the relation here i plotted the child mortality over income similar to above with color blue as actual child mortality rate and yellow, green and red respectively for 1st, 2nd, and 3rd-degree regressor.
+To see the relation here I plotted the child mortality over income similar to above with color blue as actual child mortality rate and yellow, green and red respectively for 1st, 2nd, and 3rd-degree regressor.
 
 In the below plot we see that all the regressor lines are way off in representing the relation between both the variable. Also, we see that child mortality is inversely proportional to income. As income increase the child mortality rate decreases.
 
