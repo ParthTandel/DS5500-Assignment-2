@@ -10,7 +10,7 @@ Also, the Plot for individual countries in My classmate is helpful to interpret 
 The second plot about countries with respect to income and time in a single chart is similar to mine. The chart packs a lot of information in it, in fact too much information for it to be interpretable. The single country chart is more interpretable than this one definitely. But both are not a perfect solution for visualization of this kind.
 
 ## problem 3
-For this problem, I would like to critique my classmate Mavita Reddy
+For this problem, I would like to critique my classmate Manvita Reddy
 https://github.com/manvitamarkala/DS-5500---HW1
 
 The choice of the visualization for both me and my classmate is the same which is line plot. I think the chart does justice in conveying the information about the quantities individually for all continents. But if you want to compare them and see the relation between the quantities ie relation between income, child mortality and life expectancy it becomes difficult. I think plotting each quantity together for a single continent in one chart is the way to go here to see the relation between them. Also, in the end, agregating them for all continents is a good plot but it fails to capture the information about a single continent. For example, the child mortality rate in America might be less as compared to Africa but aggregating them together can mislead the information
