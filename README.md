@@ -16,6 +16,10 @@ https://github.com/manvitamarkala/DS-5500---HW1
 The choice of the visualization for both me and my classmate is the same which is line plot. I think the chart does justice in conveying the information about the quantities individually for all continents. But if you want to compare them and see the relation between the quantities ie relation between income, child mortality and life expectancy it becomes difficult. I think plotting each quantity together for a single continent in one chart is the way to go here to see the relation between them. Also, in the end, agregating them for all continents is a good plot but it fails to capture the information about a single continent. For example, the child mortality rate in America might be less as compared to Africa but aggregating them together can mislead the information
 
 ## Problem 4
+
+Notebook link :
+https://github.com/ParthTandel/DS5500-Assignment-2/blob/master/Question_1.ipynb
+
 For seeing the relationship between income and life expectancy I plotted a scatter plot of Life expectancy against GDP to see how they are correlated. Looking at the plot we see that as we increase the income over certain range the life expectancy increases as well and after a certain point, it almost is constant as expected. 
 The blue scatters represents the actual Y which is the life expectancy over income. The Yellow line represents the linear fit for the variable Life expectancy over GDP income. We can see that it fails to actually establish a correct representation between the variable. So does the 2nd degree and 3rd-degree polynomial regressor.
 
@@ -86,6 +90,9 @@ Also looking at the residual the third-degree polynomial is closer toward 0 than
 
 
 ## Problem 5
+
+Notebook link :
+https://github.com/ParthTandel/DS5500-Assignment-2/blob/master/Question_2.ipynb
 
 To see the relation here I plotted the child mortality over income similar to above with color blue as actual child mortality rate and yellow, green and red respectively for 1st, 2nd, and 3rd-degree regressor.
 
